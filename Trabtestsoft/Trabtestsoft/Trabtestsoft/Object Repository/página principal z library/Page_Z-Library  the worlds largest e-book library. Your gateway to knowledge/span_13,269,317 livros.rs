@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_13,269,317 livros</name>
+   <tag></tag>
+   <elementGuidId>936da22f-0927-448f-a9e8-a02bc20e859c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.hidden-xs</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='colorBoxes']/ul/li/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c314f864-c64b-4d29-8a5a-13d395738cdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hidden-xs</value>
+      <webElementGuid>c6fdf2b6-30d4-420a-a5f8-5185777ed26c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>13,269,317 livros</value>
+      <webElementGuid>c91842fb-3b75-49a7-8b40-2aaa12724d5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;colorBoxes&quot;)/ul[1]/li[1]/a[@class=&quot;header-main-nav-link&quot;]/span[@class=&quot;hidden-xs&quot;]</value>
+      <webElementGuid>914fb48a-522f-49eb-bd3f-41ec493e85c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='colorBoxes']/ul/li/a/span</value>
+      <webElementGuid>53416ca1-b7cb-4374-ae10-75db223c91a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continuar'])[1]/following::span[1]</value>
+      <webElementGuid>f69996e7-2620-4738-92e0-9e74efe952d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='livros'])[1]/preceding::span[1]</value>
+      <webElementGuid>513fb51a-c5a3-4730-a69a-ec52439897ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='artigos'])[1]/preceding::span[3]</value>
+      <webElementGuid>7b56b350-991a-4a6e-a9d9-1f6d6333aa13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='13,269,317 livros']/parent::*</value>
+      <webElementGuid>8377ce5f-84b5-4b8e-815e-8a6afa1bb6d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>e252200e-7edf-46e8-8790-cd114385d0b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '13,269,317 livros' or . = '13,269,317 livros')]</value>
+      <webElementGuid>0f45f884-ae47-47cf-a927-0612d173fab7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

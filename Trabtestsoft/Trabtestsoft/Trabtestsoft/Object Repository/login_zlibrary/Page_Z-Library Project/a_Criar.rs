@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Criar</name>
+   <tag></tag>
+   <elementGuidId>4cfdb930-9231-4bd7-8ca6-bbea622c1c74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.right > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Criar')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9993a4f7-a9cd-47ca-9f83-03eab279c39a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/registration.php</value>
+      <webElementGuid>6051c90e-cb79-4fd5-939e-2b14fb678e0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Criar</value>
+      <webElementGuid>3dc9c492-e164-4e66-9cba-8491a8264565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;subprojects/singlelogin/index singlelogin&quot;]/table[@class=&quot;super-puper-main-container&quot;]/tbody[1]/tr[2]/td[@class=&quot;g-page-content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12 itemFullText&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;well login&quot;]/div[@class=&quot;bottom-block&quot;]/div[@class=&quot;right&quot;]/a[1]</value>
+      <webElementGuid>3babf913-592b-44d2-9973-bf37950f8477</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Criar')]</value>
+      <webElementGuid>b4552b30-fcee-4bac-b366-ef488b41fd5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Don’t have an account?'])[1]/following::a[1]</value>
+      <webElementGuid>a3c13314-6b75-4590-bf06-8cd531a011a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Entrar'])[1]/following::a[1]</value>
+      <webElementGuid>ac4b02ca-d46e-4a5b-8397-a007f41f585a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='J.K. Rowling'])[1]/preceding::a[1]</value>
+      <webElementGuid>b93d5fd9-754c-4d14-84ba-dfedeb2ab18a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Criar']/parent::*</value>
+      <webElementGuid>71573f33-4657-4be1-9295-fa951efe83cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/registration.php')]</value>
+      <webElementGuid>68e80ac2-cefa-404c-aace-fe4ad68337e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/a</value>
+      <webElementGuid>b9725bef-793b-45f5-8717-8c39680da8ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/registration.php' and (text() = 'Criar' or . = 'Criar')]</value>
+      <webElementGuid>524a64bf-719e-420d-9ac3-6ada423f9aba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
