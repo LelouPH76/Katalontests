@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login - senha errada</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9df82aa1-f3f3-4682-ae9a-4f4d42ce37e0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_84,837,643 artigos</name>
+   <tag></tag>
+   <elementGuidId>4c179555-c15e-4895-abf2-509cc118796a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='colorBoxes']/ul/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5869f7d5-4904-4d56-8e35-46546c046cd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hidden-xs</value>
+      <webElementGuid>15bb8e34-35f9-4c47-af5c-f228ff3691d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>84,837,643 artigos</value>
+      <webElementGuid>21d3bf09-1515-4aad-9d05-02f624836355</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;colorBoxes&quot;)/ul[1]/li[2]/a[@class=&quot;header-main-nav-link&quot;]/span[@class=&quot;hidden-xs&quot;]</value>
+      <webElementGuid>7b980805-f17a-47c6-a72f-8d04ebbc9c86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='colorBoxes']/ul/li[2]/a/span</value>
+      <webElementGuid>77b0d7ae-0e22-46cf-b7e3-87fc92f925f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='livros'])[1]/following::span[1]</value>
+      <webElementGuid>93f1f5da-8240-4830-89b3-db9b3e157e5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continuar'])[1]/following::span[3]</value>
+      <webElementGuid>5627bd20-92b7-4557-8a16-1c72a186fe70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='artigos'])[1]/preceding::span[1]</value>
+      <webElementGuid>73105adb-d306-4e7a-ad78-c6a9ba189b28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doar'])[1]/preceding::span[2]</value>
+      <webElementGuid>9450b4a3-a0c3-4640-abaf-f1f12283395b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='84,837,643 artigos']/parent::*</value>
+      <webElementGuid>18c225b0-dd4c-494f-b07d-099b0999043f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>3f1f24a1-fc76-467a-94aa-cc2633da68e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '84,837,643 artigos' or . = '84,837,643 artigos')]</value>
+      <webElementGuid>16e0cf81-60e2-4e60-a530-2ae0a5bc9f64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
