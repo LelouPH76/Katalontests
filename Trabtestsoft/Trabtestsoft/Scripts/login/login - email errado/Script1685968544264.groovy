@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.setText(findTestObject('login_zlibrary/Page_Z-Library Project/input__email'), 'phnlymagmail.com')
+WebUI.setText(findTestObject('login_zlibrary/Page_Z-Library Project/input__email'), '')
 
-WebUI.setText(findTestObject('login_zlibrary/Page_Z-Library Project/input__password'), 'FABbr77%#$&')
+WebUI.setText(findTestObject('login_zlibrary/Page_Z-Library Project/input__password'), '')
 
 WebUI.click(findTestObject('login_zlibrary/Page_Z-Library Project/button_Entrar'))
 

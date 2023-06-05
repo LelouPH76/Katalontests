@@ -17,13 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.setText(findTestObject('login_zlibrary/Page_Z-Library Project/input__email'), 'phnlymagmail.com')
+WebUI.click(findTestObject('login_zlibrary/Page_Z-Library Project/a_Criar'))
 
-WebUI.setText(findTestObject('login_zlibrary/Page_Z-Library Project/input__password'), 'FABbr77%#$&')
+WebUI.setText(findTestObject('Page_Sign up for Z-Library/input_Create an Account_email'), '')
 
-WebUI.click(findTestObject('login_zlibrary/Page_Z-Library Project/button_Entrar'))
+WebUI.setText(findTestObject('Page_Sign up for Z-Library/input_Create an Account_name'), '')
 
-WebUI.click(findTestObject('página principal z library/Page_Z-Library  the worlds largest e-book library. Your gateway to knowledge/div_Doar_upd-burger js-burger-toggler'))
-
-WebUI.click(findTestObject('página principal z library/Page_Z-Library  the worlds largest e-book library. Your gateway to knowledge/span_Sair'))
+WebUI.setText(findTestObject('Page_Sign up for Z-Library/input_Create an Account_password'), '')
 

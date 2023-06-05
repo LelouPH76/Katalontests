@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>login - senha errada</name>
+   <name>emailsemsentido</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>495c2ee9-5ded-4448-bab0-cf91a496b49b</testCaseGuid>
+   <testCaseGuid>5c7c0293-af4d-4e3f-9454-ca018f144b89</testCaseGuid>
 </TestCaseEntity>

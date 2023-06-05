@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Doar_upd-burger js-burger-toggler</name>
+   <tag></tag>
+   <elementGuidId>17fc64b8-2424-4325-a2c4-67bded44036f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.upd-burger.js-burger-toggler</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='profileMenu']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cd6be3f5-651a-44fa-b1a4-aa1fcd753ad0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>upd-burger js-burger-toggler</value>
+      <webElementGuid>8bda05f4-e855-4283-9da1-3d5d77a13da8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-original-title</name>
+      <type>Main</type>
+      <value>Downloads: 0/10&lt;br/>Irá reiniciar em 8h 13m</value>
+      <webElementGuid>dd63d8d9-992c-42fb-a2ba-11143dbc2379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profileMenu&quot;)/div[@class=&quot;upd-burger js-burger-toggler&quot;]</value>
+      <webElementGuid>2c4a4426-14bc-466a-bc52-5b97c3742450</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='profileMenu']/div</value>
+      <webElementGuid>ee76488e-7583-4509-9937-f1db8c5ca84b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doar'])[2]/following::div[5]</value>
+      <webElementGuid>c122e208-3dc6-4bc1-8256-3cfe0b3d9efb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Doar'])[1]/following::div[7]</value>
+      <webElementGuid>ca9219df-5420-4731-a56d-9518dc11ba35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lelouch'])[1]/preceding::div[5]</value>
+      <webElementGuid>8378f8ff-55c3-402a-a80a-f6a6e2c59539</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='conta básica'])[1]/preceding::div[5]</value>
+      <webElementGuid>96321501-6062-4c57-a2bd-ae34e0f92da0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div</value>
+      <webElementGuid>3706f859-d028-4762-97c4-0c193eb0a758</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

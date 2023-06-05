@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sair</name>
+   <tag></tag>
+   <elementGuidId>731d1d81-33a5-423b-95ed-1dbb3ef68643</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Editar o perfil'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c9319468-8c10-4ce3-ae61-7035168873e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sair</value>
+      <webElementGuid>67b4c4a7-239d-4f8f-8ef4-1236a02b2273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;index startForm&quot;]/table[@class=&quot;super-puper-main-container&quot;]/tbody[1]/tr[1]/td[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;navbar-default navbar-right&quot;]/div[@class=&quot;navbar-upd&quot;]/div[@class=&quot;navbar-upd__menu&quot;]/div[@class=&quot;field-drop menu-upd&quot;]/div[@class=&quot;menu-upd__user-data&quot;]/div[@class=&quot;user-data&quot;]/div[@class=&quot;user-data__bottom&quot;]/a[@class=&quot;user-data__bottom-link&quot;]/span[1]</value>
+      <webElementGuid>b1357041-e70d-4ddc-9de1-34a5ab10256e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Editar o perfil'])[1]/following::span[1]</value>
+      <webElementGuid>c541d071-8850-45c1-b116-bf012bef929c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Z-Access'])[1]/following::span[2]</value>
+      <webElementGuid>443ca750-3951-42cb-9ad3-47295dc09ee9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal'])[1]/preceding::span[1]</value>
+      <webElementGuid>24de07dd-8fcd-494f-a00d-c6eba32549e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favoritos'])[1]/preceding::span[1]</value>
+      <webElementGuid>7b5c2734-cfc0-4032-b3d8-71d7dc9da14c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sair']/parent::*</value>
+      <webElementGuid>e5d99fda-9409-4125-9d1c-5a3d823f4205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a[2]/span</value>
+      <webElementGuid>99ebafb7-3fe0-428e-9c93-585b6565bc75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Sair' or . = 'Sair')]</value>
+      <webElementGuid>e2033a97-33ac-4edb-9150-3f10646a2b87</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
